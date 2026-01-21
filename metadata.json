@@ -1,0 +1,7 @@
+{
+  "name": "Luxury Gold Payout Calculator",
+  "description": "A high-end, interactive gold price calculator for buying businesses. It fetches live market data in CAD and calculates 88% payouts across multiple karat weights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
