@@ -9,7 +9,7 @@
         },
         {
           "key": "Content-Security-Policy",
-          "value": "frame-ancestors https://www.achatormontreal.com https://achatormontreal.com"
+          "value": "frame-ancestors https://*.wixsite.com https://www.achatormontreal.com https://achatormontreal.com"
         }
       ]
     }
